@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPL Win Predictor [2022] 
 
 Tihs is the machine learning project with webapp which predicts IPL Winner Among two teams.
@@ -35,3 +36,5 @@ DataSet Used >> https://www.kaggle.com/datasets/amanullahkhan9093/ipl-dataset-20
 `python strtServer.py`
 
 Open Web-Browser and navigate to http://127.0.0.1:5000/
+# IPL-Prediction
+>>>>>>> f9bad74092811352190cec11b5ef884d81777e6d
