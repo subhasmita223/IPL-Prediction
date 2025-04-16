@@ -205,7 +205,7 @@ body{
     display: flex;
     place-content: center;
     place-items: center;
-    /* font-size: large; */
+    font-size: large; 
     /* color: rgb(25, 133, 255); */
 }
 .optionTextCont{
